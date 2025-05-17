@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/programming/elixir/elixir.md",
+                "file": "source/content/programming/elixir/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "elixir"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/programming/elixir/elixir.md",
+                "file": "source/content/programming/elixir/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for elixir"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/programming/elixir/elixir.md",
+                "file": "source/content/programming/elixir/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from elixir"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/programming/elixir/elixir.md",
+                "file": "source/content/programming/elixir/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of elixir"
+              "title": "Outline of index"
             }
           },
           {
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c60fc9592b0c00d",
+  "active": "f68e36db2f068427",
   "lastOpenFiles": [
     "source/content/programming/index.md",
-    "source/content/programming/elixir/elixir.md",
+    "source/content/programming/elixir/index.md",
     "source/content/about.md",
     "source/content/programming/elixir",
     "source/content/technical leadership",
