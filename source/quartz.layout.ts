@@ -26,8 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.Search(),
     Component.TableOfContents(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.MobileOnly(Component.Spacer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Darkmode(),
